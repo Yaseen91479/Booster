@@ -3,7 +3,7 @@
     <application
         android:allowBackup="false"
         android:label="RAM Guard Probe"
-        android:description="Read-only system_server callback verification probe"
+        android:description="@string/module_description"
         android:supportsRtl="true">
     </application>
 </manifest>
